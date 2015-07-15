@@ -1,2 +1,3 @@
 # ci3-users-module
-How to Join CI3+ Bootstrap3+Metronic-theme
+It s simple project for Managments users
+CI3 + Bootstrap3 + sb-Admin-theme + Ion-auth
